@@ -1,2 +1,2 @@
-# FIQDetect
-Face Image Quality Detection
+# FGIDetect
+Face and Gesture Image Detection
