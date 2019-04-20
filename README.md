@@ -16,7 +16,7 @@ FGIDetect is a project to detect face and guesture using camera capture technolo
   pip3 install face_recognition
   ```
 ## Usage
-- windows 
+- On Windows 
   ```bash
   python ui_setup.py
   ```
