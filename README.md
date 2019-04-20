@@ -1,7 +1,7 @@
 # FGIDetect
 Face and Gesture Image Detection
 FGIDetect is a project to detect face and guesture using camera capture technology.
-# Installation
+
 ## Requirements
 - Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0
 - Windows or Linux (macOS not officially supported, but might work)
