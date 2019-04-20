@@ -7,4 +7,4 @@ Requirements
 - Windows or Linux (macOS not officially supported, but might work)
 Installation Options:
   install this module from pypi using pip3 (or pip2 for Python 2):
-  pip3 install face_recognition
+  - pip3 install face_recognition
